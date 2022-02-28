@@ -5,7 +5,8 @@
 ![Primeira faixa](https://github.com/Bessa1/playlist/blob/main/img/play2.png)
 ## Segunda Música:
 ![Primeira faixa](https://github.com/Bessa1/playlist/blob/main/img/pla3.png)
-## Quarta Música:
+## Terceira Música:
 ![Primeira faixa](https://github.com/Bessa1/playlist/blob/main/img/play5.png)
-## Quinta Música:
+## Quarta Música:
 ![Primeira faixa](https://github.com/Bessa1/playlist/blob/main/img/play6.png)
+## 
