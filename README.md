@@ -1,7 +1,7 @@
 # Playlist Spotiligh  
 ## Página principal:
 ![descrição da imagem](https://github.com/Bessa1/playlist/blob/main/img/menu1.png)
-![descrição da imagem](https://github.com/Bessa1/playlist/blob/main/img/play1.png)
+![descrição da imagem](https://github.com/Bessa1/playlist/blob/main/img/play1%20(2).png)
 ## Primeira Música:
 ![Primeira faixa](https://github.com/Bessa1/playlist/blob/main/img/play2.png)
 ## Segunda Música:
@@ -13,3 +13,4 @@
 ## Quinta Música: 
 ![Quinta Música](https://github.com/Bessa1/playlist/blob/main/img/play4.png)
 
+https://github.com/Bessa1/playlist/blob/main/img/play1%20(2).png
